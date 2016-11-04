@@ -12,7 +12,10 @@ and
 Apologies in advance for the increasing shittiness of the code as time progressed. There's also a lot of random code from my first "failed" attempt. Enjoy.
 
 **LINKS**
+
 [Entry Page](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=46596)
+
 [YouTube](https://www.youtube.com/watch?v=NXQ2YEzZaKs) 
+
 [Timelapse](https://www.youtube.com/watch?v=aKk3MG4ZF74)
 
